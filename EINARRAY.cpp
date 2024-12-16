@@ -38,6 +38,4 @@ int main() {
 
     cout << "Minimum furion is in month " << minMonth + 1 << " with a furion of " << minFurion << endl;
     cout << "Maximum furion is in month " << maxMonth + 1 << " with a furion of " << maxFurion << endl;
-
-    return 0;
 }
